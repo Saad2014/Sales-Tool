@@ -13,6 +13,7 @@ public class Main {
 	private static void displayCreeting() {
 	System.out.println("Hello Happy Sales People");
 	System.out.println("this app shows sales data");
+	System.out.println("Test 1");
 		
 	}
 
